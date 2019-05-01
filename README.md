@@ -1,1 +1,1 @@
-# 3Dgalary
+# 3DGallery
